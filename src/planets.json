@@ -1,0 +1,34 @@
+[
+  {
+    "name": "mercury",
+    "proximityS": 0.39
+  },
+  {
+    "name": "venus",
+    "proximityS": 0.72
+  },
+  {
+    "name": "earth",
+    "proximityS": 1.00
+  },
+  {
+    "name": "mars",
+    "proximityS": 1.52
+  },
+  {
+    "name": "jupiter",
+    "proximityS": 5.20
+  },
+  {
+    "name": "saturn",
+    "proximityS": 9.54
+  },
+  {
+    "name": "uranus",
+    "proximityS": 19.22
+  },
+  {
+    "name": "neptune",
+    "proximityS": 30.06
+  }
+]
